@@ -1,0 +1,15 @@
+# created by virtualenv automatically
+.venv/Lib
+# Virtual environments
+.venv/Scripts
+.venv/pyvenv.cfg
+
+
+# Model checkpoints and logs
+models/
+logs/
+data/
+
+# OS generated files
+.DS_Store
+Thumbs.db
